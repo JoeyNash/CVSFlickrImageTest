@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "8D683C4F-2AC0-431C-ADC3-D67B56C1424F"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "99259584-774F-404B-8D2D-9DB518501704"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CVSFlickrImageTest/DateFormatter+Extensions.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "14"
+            endingLineNumber = "14"
+            landmarkName = "displayFormatter"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9B2D2661-7309-40B4-A7F9-277246274775"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CVSFlickrImageTest/Service/FlickrService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "34"
+            endingLineNumber = "34"
+            landmarkName = "getItemsBySearching(forTags:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "761115D7-84C8-4359-A2F2-50BB0DD5FFAD"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CVSFlickrImageTestTests/CVSFlickrImageTestTests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "37"
+            endingLineNumber = "37"
+            landmarkName = "testViewModel_Success()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "761115D7-84C8-4359-A2F2-50BB0DD5FFAD - 7cb59a6d69d7b695"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CVSFlickrImageTestTests.CVSFlickrImageTestTests.testViewModel() -&gt; ()"
+                  moduleName = "CVSFlickrImageTestTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/reaga/Documents/CVSFlickrImageTest/CVSFlickrImageTest/CVSFlickrImageTestTests/CVSFlickrImageTestTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "32"
+                  endingLineNumber = "32"
+                  offsetFromSymbolStart = "617">
+               </Location>
+               <Location
+                  uuid = "761115D7-84C8-4359-A2F2-50BB0DD5FFAD - 7cb59a6d69d7b6b6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CVSFlickrImageTestTests.CVSFlickrImageTestTests.testViewModel() -&gt; ()"
+                  moduleName = "CVSFlickrImageTestTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/reaga/Documents/CVSFlickrImageTest/CVSFlickrImageTest/CVSFlickrImageTestTests/CVSFlickrImageTestTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "33"
+                  endingLineNumber = "33"
+                  offsetFromSymbolStart = "600">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "906D4E6F-952F-467D-9CCB-EC8F0F7EE4C0"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CVSFlickrImageTest/Views/ImageListView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "35"
+            endingLineNumber = "35"
+            landmarkName = "fetchItems()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9B7AE352-3312-463A-98A3-A2C0402D182D"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CVSFlickrImageTestTests/CVSFlickrImageTestTests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "71"
+            endingLineNumber = "71"
+            landmarkName = "getItemsBySearching(forTags:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1F423710-46AE-4F65-8DF5-873F2AFC94AF"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CVSFlickrImageTestTests/CVSFlickrImageTestTests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "31"
+            endingLineNumber = "31"
+            landmarkName = "testViewModel_Success()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "1F423710-46AE-4F65-8DF5-873F2AFC94AF - 85ddca9e83644979"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Array&lt;CVSFlickrImageTest.FlickrItem&gt;) -&gt; () in CVSFlickrImageTestTests.CVSFlickrImageTestTests.testViewModel() -&gt; ()"
+                  moduleName = "CVSFlickrImageTestTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/reaga/Documents/CVSFlickrImageTest/CVSFlickrImageTest/CVSFlickrImageTestTests/CVSFlickrImageTestTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "29"
+                  endingLineNumber = "29"
+                  offsetFromSymbolStart = "247">
+               </Location>
+               <Location
+                  uuid = "1F423710-46AE-4F65-8DF5-873F2AFC94AF - 85ddca9e83644979"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Array&lt;CVSFlickrImageTest.FlickrItem&gt;) -&gt; () in CVSFlickrImageTestTests.CVSFlickrImageTestTests.testViewModel() -&gt; ()"
+                  moduleName = "CVSFlickrImageTestTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/reaga/Documents/CVSFlickrImageTest/CVSFlickrImageTest/CVSFlickrImageTestTests/CVSFlickrImageTestTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "29"
+                  endingLineNumber = "29"
+                  offsetFromSymbolStart = "130">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "98944036-B015-4B06-B337-BA4488991E5B"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CVSFlickrImageTestTests/CVSFlickrImageTestTests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "52"
+            endingLineNumber = "52"
+            landmarkName = "testViewModel_Failure()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "98944036-B015-4B06-B337-BA4488991E5B - b8deaf2a28b4fd2a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Swift.Error&gt;) -&gt; () in CVSFlickrImageTestTests.CVSFlickrImageTestTests.testViewModel_Failure() -&gt; ()"
+                  moduleName = "CVSFlickrImageTestTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/reaga/Documents/CVSFlickrImageTest/CVSFlickrImageTest/CVSFlickrImageTestTests/CVSFlickrImageTestTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "52"
+                  endingLineNumber = "52"
+                  offsetFromSymbolStart = "58">
+               </Location>
+               <Location
+                  uuid = "98944036-B015-4B06-B337-BA4488991E5B - b8deaf2a28b4fd2a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Swift.Error&gt;) -&gt; () in CVSFlickrImageTestTests.CVSFlickrImageTestTests.testViewModel_Failure() -&gt; ()"
+                  moduleName = "CVSFlickrImageTestTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/reaga/Documents/CVSFlickrImageTest/CVSFlickrImageTest/CVSFlickrImageTestTests/CVSFlickrImageTestTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "52"
+                  endingLineNumber = "52"
+                  offsetFromSymbolStart = "125">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "48659DC6-20CD-4222-8198-8D2D11BA2973"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CVSFlickrImageTest/Views/ImageListView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "33"
+            endingLineNumber = "33"
+            landmarkName = "fetchItems()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5417A630-AE05-4FF0-AE2D-40182AD8A127"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CVSFlickrImageTestTests/CVSFlickrImageTestTests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "66"
+            endingLineNumber = "66"
+            landmarkName = "getItemsBySearching(forTags:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E90398CA-DED0-4974-9FA8-66574798D8EB"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CVSFlickrImageTest/Views/ImageListView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "28"
+            endingLineNumber = "28"
+            landmarkName = "fetchItems()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
